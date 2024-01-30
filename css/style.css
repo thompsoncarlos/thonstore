@@ -490,6 +490,8 @@ body {
 } 
 
 footer {
+  background: #000;
+  color: #fff2e5;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
@@ -547,6 +549,7 @@ footer a:hover{
 }
 
 footer .copyright {
+  color: #fff2e5;
   width: 100%;
   text-align: center;
 }
